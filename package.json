@@ -1,0 +1,22 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "A sample nodeja app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battaramanil/TestApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/battaramanil/TestApp/issues"
+  },
+  "homepage": "https://github.com/battaramanil/TestApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
